@@ -188,6 +188,8 @@
 - [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
 - [Shiny Leaf](https://www.shinyleaf.com/promotions/bitcoin-cash-payment/) - Natural bath & body products
 - [Afrigarments](https://afrigarments.com/) - African style clothing
+- [NameCheap] (https://www.namecheap.com/) - Domain Names & Web Hosting service provider
+
 
 # Community
 
